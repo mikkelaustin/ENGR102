@@ -2,7 +2,7 @@
 
 Welcome to our ENGR 102 project repository for Team 33!
 
-## Our firs tproject aims to calculate z-score values for population data.
+## Our first project aims to calculate z-score values for population data.
 
 ## Team Members
 - Michael G.
